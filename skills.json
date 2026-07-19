@@ -1,0 +1,42 @@
+{
+  "name": "stack-insider-ai-skills",
+  "description": "Agent skills for AI SaaS tools reviewed on Stack Insider — MCP servers, OKF bundles, and agent workflows",
+  "version": "1.0.0",
+  "skills": [
+    {
+      "name": "lindy-agent",
+      "description": "Orchestrate Lindy AI agents from your coding agent — build, test, and deploy Lindy agent workflows",
+      "tags": ["lindy", "ai-agents", "automation"]
+    },
+    {
+      "name": "castmagic-content",
+      "description": "Transform audio/video content using Castmagic — show notes, social posts, blog drafts from one recording",
+      "tags": ["castmagic", "content", "audio", "video"]
+    },
+    {
+      "name": "gamma-presentations",
+      "description": "Create AI-powered presentations with Gamma — slide decks, documents, and web pages from a prompt",
+      "tags": ["gamma", "presentations", "ai-creative"]
+    },
+    {
+      "name": "aisdr-outreach",
+      "description": "Run AI-powered sales outreach via AiSDR — automate prospecting, personalization, and email sequences",
+      "tags": ["aisdr", "sales", "outreach", "email"]
+    },
+    {
+      "name": "snowfire-content",
+      "description": "Assemble brand-compliant content with Snowfire AI — personalized proposals and presentations at scale",
+      "tags": ["snowfire", "content", "sales"]
+    },
+    {
+      "name": "reclaim-ai-scheduling",
+      "description": "Protect focus time and optimize schedules with Reclaim.ai — AI calendar management for deep work",
+      "tags": ["reclaim", "scheduling", "productivity"]
+    },
+    {
+      "name": "tidio-customer-service",
+      "description": "Deploy AI customer service agents with Tidio — chatbots, live chat, and shared inbox automation",
+      "tags": ["tidio", "customer-service", "chatbot"]
+    }
+  ]
+}
